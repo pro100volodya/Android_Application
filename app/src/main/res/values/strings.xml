@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Меню</string>
+    <string name="default_text">Список страв</string>
+    <string name="btn_text">Показати список</string>
+    <string name="btn_send">Відправити повідомлення</string>
+    <string name="kind_of_dish_txt">Вид страви:</string>
+    <string name="price_txt">Ресторан:</string>
+    <string name="btn_ok_txt">ОК</string>
+    <string name="btn_kind">Види страв</string>
+    <string name="btn_add">+</string>
+    <string name="btn_share">Поділитися</string>
+</resources>
